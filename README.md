@@ -248,4 +248,4 @@ This repository serves as the official landing page for StarMade. The software i
 **Get the most recent version of StarMade today!**
 
 ---
-**Last updated:** 2026-10-17 03:47:06 UTC
+**Last updated:** 2026-10-17 08:24:38 UTC
